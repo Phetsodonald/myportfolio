@@ -274,7 +274,7 @@ fieldset{
     align-items:center;
     padding:10px;
     gap:2%;
-    height:40em;
+    height:auto;
 }
 
 
@@ -381,7 +381,7 @@ fieldset{
 
 
 .contacts fieldset{
-    height: 20em;
+    height: auto;
     display: grid;
     align-items: flex-start;
 }
