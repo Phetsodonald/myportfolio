@@ -19,7 +19,6 @@ body{
     font-family:"Poppins", sans-serif;
     background-color:var(--theme4-clr);
     color:var(--theme1-clr);
-    min-height:100vh;
 }
 
 
